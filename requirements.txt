@@ -8,7 +8,7 @@ charset-normalizer==3.4.0
 click==8.1.7
 folium==0.18.0
 geopandas==0.14.0
-geopy==3.1.0
+geopy==2.4.0  # Updated version
 gitdb==4.0.11
 GitPython==3.1.43
 idna==3.10

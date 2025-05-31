@@ -43,9 +43,7 @@ Law enforcement can use it to identify hotspots and deploy resources more effect
 
 The visual breakdown allows stakeholders to track changes over time and assess the effectiveness of policies or interventions.
 
-## Technologies Used:
-
-## Languages & Libraries:
+## Programming Languages & Libraries:
 Python, Pandas, Streamlit, Plotly, Folium, Calplot, gdown
 
 ## Visualization:

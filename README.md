@@ -51,8 +51,8 @@ Python, Pandas, Streamlit, Plotly, Folium, Calplot, gdown
 ## Visualization:
 Heatmaps (Folium), Cluster Maps (Folium), Line Charts (Plotly), Pie Charts (Plotly), Bar Charts (Plotly), Calendar Heatmap (Calplot)
 
-Data Handling & Transformation:
+## Data Handling & Transformation:
 Streamlit Sidebar Widgets, Stratified Sampling, Custom Category Mapping
 
-Deployment & Integration:
+## Deployment & Integration:
 Google Drive (for data hosting), Streamlit (for web interface), gdown (for data download), streamlit-folium (to render Folium maps in Streamlit)

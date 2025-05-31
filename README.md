@@ -1,4 +1,4 @@
-# LAPD-Crime-Dashboard
+# LAPD Crime Dashboard
 This project is about building an interactive crime analytics dashboard using over 900,000 records from the Los Angeles Police Department (LAPD). The goal was to help users explore crime trends, patterns, and victim demographics in a visual and easy-to-understand way. The data was cleaned, categorized, and filtered to allow users to focus on what matters most to them — be it a specific location, type of crime, or demographic group.
 
 The dashboard was developed using Streamlit and Python and integrates Google Drive for seamless data loading, making it scalable and deployment-friendly even with such a large dataset.
